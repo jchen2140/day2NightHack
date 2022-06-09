@@ -1,0 +1,402 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.Arrietty {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+}
+
+.anotherArrietty {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  margin-top: -209px;
+}
+body {
+  background: #ecfeec
+}
+.spiritedAway {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+}
+
+.kikisDeliveryService {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -209px;
+}
+
+.Totoro {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  margin-top: 50px;
+}
+
+.ponyo {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -209px;
+}
+
+.howlsMovingCastle {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+  .fromUpOnPoppyHill {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+  }
+
+.castleInTheSky {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+  }
+
+.anotherSpiritedAway {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+.whereTheWindRises {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.whenMarnieWasThere {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+.anotherPonyo {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+.anotherSpiritedAway2 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.princessMononoke {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherPonyo2 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+.anotherSpiritedAway3 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherKikisDeliveryService {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherTotoro {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+.anotherHowlsMovingCastle {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherArrietty2 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.whisper {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+ .random {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherPonyo3 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherSpiritedAway4 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+.anotherPonyo4 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherKikisDeliveryService2 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherTotoro2 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 360px;
+  flex-direction: column;
+  margin-top: 1px;
+}
+
+.anotherSpiritedAway5 {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 610px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.anotherMarnie {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: #a5ddf3;
+  border-width: thick;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 860px;
+  flex-direction: column;
+  margin-top: -210px;
+}
+
+.end {
+  text-align: center;
+}
+
+.credit {
+  text-align: center;
+  font-size: 10px;
+}
